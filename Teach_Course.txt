@@ -1,0 +1,3 @@
+2,CS100,Programming Fundamentals,CS200,Data Structures,
+1,EE400,Electromagnetic Theory,
+1,EE500,Multivariable Calculus,
